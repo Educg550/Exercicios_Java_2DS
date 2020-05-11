@@ -1,0 +1,19 @@
+Implemente os seguintes algoritmos em JAVA:   
+
+ 
+
+1 - O programa deverá receber um número e dizer se é par ou impar na mensagem. Ex: Usuário entra com '200' e o resultado é '200 é um número par'.    
+
+ 
+
+2 - O programa deverá receber uma entrada de ano válida e definir as seguintes mensagens "XXXX é do passado", "XXXX é do futuro" ou "XXXX é o ano atual", sendo que XXXX deverá ser o ano digitado pelo usuário.    
+
+ 
+
+3 - Implemente um algoritmo que receba: nome, nota 1 e nota 2 de um aluno e decida uma das seguintes mensagens baseadas no critério de:    
+
+Média de 0,00 a 3,99 - "Nome: XXXX Média: XX,XX Situação:Reprovado"  
+
+Média de 4,00 a 5,99 - "Nome: XXXX Média: XX,XX Situação:Recuperação"  
+
+Média de 6,00 a 10,00 - "Nome: XXXX Média: XX,XX Situação:Aprovado" 
