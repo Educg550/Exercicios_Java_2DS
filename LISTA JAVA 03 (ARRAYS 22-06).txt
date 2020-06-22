@@ -1,0 +1,10 @@
+Atividade sobre vetores
+ 
+1- Crie um vetor de tamanho 10 do tipo inteiro
+2- Preencha esse vetor com numeros pares a sua escolha
+3- Imprima esse vetor
+4- Troque o numero na 5º posição para 87
+5- Troque o numero na 3º posição para 57
+6- Imprima as posiçoes que foram alteradas acima
+ 
+*dica: Lembre que a contagem do vetor se inicia em 0. Ou seja, um vetor de tamanho 5 = indices [0],[1],[2],[3],[4], sendo [0] = posição 1 e assim por diante.
