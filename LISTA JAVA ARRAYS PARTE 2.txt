@@ -1,0 +1,14 @@
+Baseado no vídeo da aula da semana passada (29/06), faça os
+seguintes códigos
+
+1- crie um vetor para armazenar o nome de 5 pessoas, 
+preenchido através do usuário e imprima esses dados
+
+2- Crie um vetor de tamanho 10 onde o usuário informe os dados
+e que esses numeros sejam impresso
+
+
+DESAFIO EXTRA- IMPRIMA O VETOR ACIMA ( DE 10 NUMEROS) DE TRAS PRA
+FRENTE ( OU seja, o PRIMEIRO numero digitado, deve ser o ULTIMO impresso) - EXPLIQUE O CÓDIGO USADO PRA ISSO
+
+ Caso o desafio não seja entregue, NÃO SERÁ DESCONTADO PONTO de NENHUMA atividade, FIQUE TRANQUILO!
