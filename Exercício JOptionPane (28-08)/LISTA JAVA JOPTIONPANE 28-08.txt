@@ -1,0 +1,8 @@
+Desenvolvam um programa usando as "janelas" JOPtionPane onde
+- Peça o nome do usuário
+- Peça a idade do usuário
+- Peça o endereço do usuário
+Após isso, uma janela deve aparecer mostrando os dados acima e pedindo pro usuário confirmar se os dados 
+são aqueles. Se não for, mostre uma mensagem com o aviso "dados não confirmados", e se o usuário confirmar, 
+uma janela onde apareça a mensagem " Bem vindo (nome do usuário)" Usem o vídeo e código da aula passada 
+(17-08) como base
