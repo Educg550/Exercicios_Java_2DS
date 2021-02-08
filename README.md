@@ -1,2 +1,2 @@
-# Lista_Revisao_Java_01
-Lista de exercícios - Eduardo Cruz Guedes 2ºDS Turma A
+# Exercicios Java 2ºDS
+Lista de exercícios da matéria Desenvolvimento de Sistemas - Eduardo Cruz Guedes 2ºDS Turma A
